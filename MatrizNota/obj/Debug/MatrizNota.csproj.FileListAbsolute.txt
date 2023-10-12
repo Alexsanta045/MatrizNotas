@@ -1,0 +1,10 @@
+C:\Users\corte\source\repos\MatrizNota\MatrizNota\bin\Debug\MatrizNota.exe.config
+C:\Users\corte\source\repos\MatrizNota\MatrizNota\bin\Debug\MatrizNota.exe
+C:\Users\corte\source\repos\MatrizNota\MatrizNota\bin\Debug\MatrizNota.pdb
+C:\Users\corte\source\repos\MatrizNota\MatrizNota\obj\Debug\MatrizNota.csproj.AssemblyReference.cache
+C:\Users\corte\source\repos\MatrizNota\MatrizNota\obj\Debug\MatrizNota.frmNotas.resources
+C:\Users\corte\source\repos\MatrizNota\MatrizNota\obj\Debug\MatrizNota.Properties.Resources.resources
+C:\Users\corte\source\repos\MatrizNota\MatrizNota\obj\Debug\MatrizNota.csproj.GenerateResource.cache
+C:\Users\corte\source\repos\MatrizNota\MatrizNota\obj\Debug\MatrizNota.csproj.CoreCompileInputs.cache
+C:\Users\corte\source\repos\MatrizNota\MatrizNota\obj\Debug\MatrizNota.exe
+C:\Users\corte\source\repos\MatrizNota\MatrizNota\obj\Debug\MatrizNota.pdb
